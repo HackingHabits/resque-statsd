@@ -5,8 +5,8 @@ Gem::Specification.new do |s|
  s.license     = 'MIT'
  s.summary     = 'Adds simple counters and timers for statsd into your Resque jobs'
  s.description = "Will add a counter for enqueuing, performing, failing and timing Jobs"
- s.email       = "jayamster@gmail.com"
- s.authors     = ["Jason Amster"]
+ s.email       = "madan.thangavelu@mylookout.com"
+ s.authors     = ["Madan Thangavelu"]
  s.files       = ["lib/resque-statsd.rb", "lib/resque/plugins/statsd.rb"]
 end
 
